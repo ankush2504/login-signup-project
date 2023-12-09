@@ -25,3 +25,4 @@ pi = 3
 l = [12, 4, 8]
 ## added functionality 
 li = [ 12 ]
+list [ ' s' , ;a;a']
